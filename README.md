@@ -79,7 +79,7 @@ Modes you've already seen won't be re-suggested — keep asking and it goes deep
 
 ---
 
-Try it with these / 试试这些：
+## 🔍  Try it with these / 试试这些：
 
 🤖 /learn-ai-pyramid Transformer — the architecture behind GPT and friends; the attention mechanism explained top-down, from one central claim down to the math
 🤖 GPT 背后的架构——注意力机制自上而下讲清，从一个中心断言推到公式
@@ -87,7 +87,7 @@ Try it with these / 试试这些：
 🔗 图结构的 Agent 编排到底怎么运转——黑话翻译成人话
 
 
-Tips / 小贴士：
+## 🚀 Tips / 小贴士：
 
 ✂️ You always start with the concise version, then pick deeper modes from the menu at the bottom
 ✂️ 默认先给精简版，看完再从底部菜单挑更深的模式
