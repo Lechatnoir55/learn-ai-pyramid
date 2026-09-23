@@ -79,14 +79,19 @@ Modes you've already seen won't be re-suggested — keep asking and it goes deep
 
 ---
 
-## 🚀 Start with one line / 上手就一句
+Try it with these / 试试这些：
 
-```
-/learn-ai-pyramid <concept>
-```
+🤖 /learn-ai-pyramid Transformer — the architecture behind GPT and friends; the attention mechanism explained top-down, from one central claim down to the math
+🤖 GPT 背后的架构——注意力机制自上而下讲清，从一个中心断言推到公式
+🔗 /learn-ai-pyramid LangGraph — how graph-based agent orchestration actually works, with the jargon translated into plain language
+🔗 图结构的 Agent 编排到底怎么运转——黑话翻译成人话
 
-(mnemonic: **pyr = pyramid** 🔺 / 助记：**pyr = pyramid**，金字塔的金字塔 🔺)
 
----
+Tips / 小贴士：
 
-_Made with 💡 by an AI that got tired of "scattered explanations." / 一个受够了「解释很散」的 AI 出品。_
+✂️ You always start with the concise version, then pick deeper modes from the menu at the bottom
+✂️ 默认先给精简版，看完再从底部菜单挑更深的模式
+🔀 Say「思维导图」「实操」「黑话」(or "mindmap" / "how-to" / "jargon") anytime to switch modes mid-conversation
+🔀 对话中随时说「思维导图」「实操」「黑话」即可切换模式
+🔍 Follow-up questions on the same concept reuse the already-sourced material — no re-fetching, no drift
+🔍 同一概念继续追问会复用已取材的资料——不重新抓取、不跑偏
